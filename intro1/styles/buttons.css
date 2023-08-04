@@ -1,8 +1,5 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <style>
-            .subscribe-button {  /*css selector*/
+
+            .subscribe-button {  
                 background-color: rgb(200, 0, 0);
                 color: white;
                 border: none;
@@ -76,13 +73,4 @@
             .tweet-button:active {
                 opacity: 0.6;
             }
-        </style>
-    </head>
-    <body>
-        <button class="subscribe-button">Subscribe</button>  
-        <button class="join-button">JOIN</button>
-        <button class="tweet-button">Tweet</button>
-    </body>
-</html>
-
-
+</style>
